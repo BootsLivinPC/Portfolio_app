@@ -6,7 +6,7 @@
     "axios": "^0.21.1",
     "devise-axios": "^1.0.24",
     "gsap": "^3.6.1",
-    "handlebars": "^4.7.0",
+    "handlebars": "^4.7.7",
     "immer": "^8.0.1",
     "jwt-decode": "^3.1.2",
     "moment": "^2.29.1",
